@@ -1,0 +1,8 @@
+{
+  "name": "Remix LOVNIS - Pre sale focus + newsletter ",
+  "description": "LOVNIS - Brazilian Psych-Rock band based in Berlin. Official website, music, videos, press highlights and booking EPK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
